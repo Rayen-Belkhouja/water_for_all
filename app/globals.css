@@ -24,4 +24,7 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .max-container {
+    @apply lg:px-[100px] md:px-[50px] px-[15px] pt-10;
+  }
 }
