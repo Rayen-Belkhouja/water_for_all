@@ -2,7 +2,7 @@ import React from 'react'
 
 const Problem = () => {
   return (
-    <section id="about" className="py-20 bg-white">
+    <section id="problem" className="py-20 bg-white">
       <div className="container mx-auto px-16">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-20 text-blue-600">Problem Statement</h2>
 

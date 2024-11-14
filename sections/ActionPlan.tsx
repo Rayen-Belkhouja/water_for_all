@@ -3,7 +3,7 @@ import { AlertTriangle, DropletIcon, ThumbsUp, DollarSign, Handshake, AlertCircl
 
 const ActionPlan = () => {
   return (
-    <section id="about" className=" bg-white text-lg">
+    <section id="actionplan" className=" bg-white text-lg">
       <div className="container mx-auto px-16">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-20 text-blue-600">Our Action Plan</h2>
         <div className="grid md:grid-cols-3 grid-cols-1 gap-6 p-8">
